@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@100;300;400;500;700&display=swap');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
 
 :root {
@@ -11,7 +12,7 @@
   --textdark: 140,140,140;
   --textdarker: 115,115,115;
   --textdarkest: 80,80,80;
-  --font: 0;
+  --font: Cabin;
   --backgroundaccent: 0,0,0;
   --backgroundprimary: 0,0,0;
   --backgroundsecondary: 0,0,0;
